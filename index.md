@@ -1,5 +1,5 @@
 # Family recipes book
 
-- Pizzzs (TODO)
-- Sausses (TODO)
-- Speads (TODO)
+- Pizzqs (TODO)
+- Sauces (TODO)
+- Spreads (TODO)
