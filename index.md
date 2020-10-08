@@ -1,7 +1,5 @@
-# Perez's secret recipes
+# Family recipes book
 
-Set of recipes as given by my grandma.
-
-- pizas (TODO)
--sausses (TODO)
--reads (TODO)
+- Pizzqs (TODO)
+- Sauces (TODO)
+- Spreads (TODO)
