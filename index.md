@@ -3,3 +3,4 @@
 - Pizzas (TODO)
 - Sauces (TODO)
 - Spreads (TODO)
+- Garnish (TODO)
