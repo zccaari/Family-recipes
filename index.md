@@ -1,6 +1,7 @@
 # Family recipes book
 
-- Pizzas (TODO)
+- Pizzas 
+ - [base](./pizzas/base.md)
 - Sauces (TODO)
 - Spreads (TODO)
 - Garnish (TODO)
